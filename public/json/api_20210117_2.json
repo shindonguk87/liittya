@@ -1,0 +1,230 @@
+{
+	"lotArtist":"Roy Lichtenstein (b.1923)",
+	"lotTitle":"Modern Room",
+	"aimmeEstimatedHigh":"754,913.31",
+	"aimmeEstimatedLow":"654,913.31",
+	"aimmeGrowth":"4.9",
+	"hammerPrice":"5,568",
+	"currentPrice":"176,124,243",
+	"auctionCurrency":"HKD",
+	"auctionEstimatedHigh":"500,000,000",
+	"auctionEstimatedLow":"300,000,000",
+	"lotNumber":"57A",
+	"auctionTitle":"2012 Sotheby's Hong Kong Contemporary Evening Sale",
+	"lotImages": [ 
+	                 {"imgSrc":"http://a.jpg","imgSeq":"1"},
+	                 {"imgSrc":"http://b.jpg","imgSeq":"2"}
+				    ],
+	"brushStroke":"signed, dated and numbered 4372 by Estate of Roy Lichtenstein </br> 143.2 by 204.8 cm.",
+	"provenance":"Mitchell-Innes & Nash, New York Private Collection, </br> London, 17 October 2013",
+	"artworkCategory": [
+							  { "category":"Pop Art"} ,
+							  { "category":"Op Art"} ,
+							  { "category":"Post-war and Contemporary"}
+							],
+    "artworkTimeline": [
+	                          {
+							    "year":"2000",
+								"currency":"GBP",
+								"price":"316,300"
+							  },
+							  {
+							    "year":"2009",
+								"currency":"USD",
+								"price":"518,500"
+							  },
+							  {
+							    "year":"2019",
+								"currency":"GBP",
+								"price":"555,000"
+							  }
+						   ],
+	"artworkTimelineText": [
+	                             {
+							       "seq":"1",
+								   "text":"2019 November Sotheby's London Contemporary Art Evening Auction"
+							     },
+	                             {
+							       "seq":"2",
+								   "text":"2014 November Sotheby's New York Post-war Art Evening Auction"
+							     }
+						        ],
+    "exhibited" : "-",
+    "literature" : "-",
+	"artist" : "Roy Lichtenstein",
+	"artistInfo" : "American, 1923 - 1997",
+	"marketLevel" : "A" ,
+	"auctionGeuranteeValue" : "TOP10",
+	"topMediums" : [
+	                        { 
+							  "seq" : "1",
+							  "medium" : "Oil",
+							  "ratio" : "58%"
+							},
+							{ 
+							  "seq" : "2",
+							  "medium" : "Pencil",
+							  "ratio" : "21%"
+							}
+						  ],
+    "averageSize" : "421.2 x 684.1",
+    "relatedArtists" : [
+						  {
+							"artistSeq":"10",
+							"artistName":"Louise Bourgeois",
+							"artistInfo":"American, 1923 - 1997",
+							"order":"1"
+						   },
+						   {
+							"artistSeq":"105",
+							"artistName":"Andy Warhol",
+							"artistInfo":"American, 1923 - 1997",
+							"order":"2"
+						   },
+						   {
+							"artistSeq":"20",
+							"artistName":"Jean-Michel Basquiat",
+							"artistInfo":"American, 1923 - 1997",
+							"order":"3"
+						   }
+						],
+    "mostPopularAuction" : "Sotheby's",
+	"mostPopularRegion"  : "New York",
+	"soldInAuction" : "81.1",
+	"unsoldInAuction" : "18.9",
+	"priceBidding" : [
+						  {
+							"type" : "highest",
+							"lotUuid" : " - ",
+							"lotImage" : "http://",
+							"lotPrice" : "95,365,500",
+							"lotAuction" : "2015 Christie's New York",
+							"lotSale" : "The Artist's Muse : A Curated"
+						  },
+						  {
+							"type" : "lowest",
+							"lotUuid" : " - ",
+							"lotImage" : "http://",
+							"lotPrice" : "15,365,500",
+							"lotAuction" : "2015 Christie's New York",
+							"lotSale" : "The Artist's Muse : A Curated"
+						  }
+						],
+    "lastDecadeAuctionInfo" : [
+									  {
+									    "seq" : "1",
+										"auction":"Sotheby's",
+										"price" : "7.9M",
+										"cnt" : "681"
+									  },
+									  {
+									    "seq" : "2",
+										"auction":"Christie's",
+										"price" : "1.9M",
+										"cnt" : "427"
+									  },
+									  {
+									    "seq" : "3",
+										"auction":"sotheby's",
+										"price" : "7.9M",
+										"cnt" : "681"
+									  },
+									  {
+									    "seq" : "4",
+										"auction":"sotheby's",
+										"price" : "7.9M",
+										"cnt" : "681"
+									  },
+									  {
+									    "seq" : "5",
+										"auction":"HA",
+										"price" : "0.1M",
+										"cnt" : "141"
+									  }
+									],
+    "mostRecentSoldLotList" : [
+									  {
+										"seq" : "1",
+										"lotUuid" : " - ",
+										"lotImgSrc" : "http://",
+										"currentcy" : "GBP",
+										"price" : "95,365",
+										"auction" : "2020 Christie's Hong Kong",
+										"sale" : "The Artist's Muse"
+									  },
+									  {
+										"seq" : "2",
+										"lotUuid" : " - ",
+										"lotImgSrc" : "http://",
+										"currentcy" : "GBP",
+										"price" : "95,365",
+										"auction" : "2020 Christie's Hong Kong",
+										"sale" : "The Artist's Muse"
+									  },
+									  {
+										"seq" : "3",
+										"lotUuid" : " - ",
+										"lotImgSrc" : "http://",
+										"currentcy" : "GBP",
+										"price" : "95,365",
+										"auction" : "2020 Christie's Hong Kong",
+										"sale" : "The Artist's Muse"
+									  }
+								   ],
+	"highestPriceSoldLotList" : [
+									  {
+										"seq" : "1",
+										"lotUuid" : " - ",
+										"lotImgSrc" : "http://",										
+										"price" : "95,365",
+										"auction" : "2020 Christie's Hong Kong",
+										"sale" : "The Artist's Muse"
+									  },
+									  {
+										"seq" : "2",
+										"lotUuid" : " - ",
+										"lotImgSrc" : "http://",										
+										"price" : "95,365",
+										"auction" : "2020 Christie's Hong Kong",
+										"sale" : "The Artist's Muse"
+									  },
+									  {
+										"seq" : "3",
+										"lotUuid" : " - ",
+										"lotImgSrc" : "http://",										
+										"price" : "95,365",
+										"auction" : "2020 Christie's Hong Kong",
+										"sale" : "The Artist's Muse"
+									  }
+								   ],
+    "recentIssueList" : [
+							{
+								"seq" : "1",
+								"date" : "1 March 2020",
+								"content" : "What Sold at Art Basel in Miami Beach"
+							},
+							{
+								"seq" : "2",
+								"date" : "2 March 2020",
+								"content" : "What Sold at Art Basel in Miami Beach"
+							},
+							{
+								"seq" : "3",
+								"date" : "3 March 2020",
+								"content" : "What Sold at Art Basel in Miami Beach"
+							},
+							{
+								"seq" : "4",
+								"date" : "4 March 2020",
+								"content" : "What Sold at Art Basel in Miami Beach"
+							},
+							{
+								"seq" : "5",
+								"date" : "5 March 2020",
+								"content" : "What Sold at Art Basel in Miami Beach"
+							}
+						  ]
+}						  
+								
+								   
+										
